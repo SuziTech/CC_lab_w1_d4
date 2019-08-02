@@ -112,10 +112,10 @@ end
   # 6. Find the total of everyone's money
   # (hint: use the @people array, remember how we checked the total number of eggs yesterday?)
 
-  def test_total_monie
-    result = total_monie()
-    assert_equal()
-  end
+  #def test_total_monie
+  #  result = total_monie()
+  #  assert_equal()
+  #end
 
 
   # 7. For two given people, allow the first person to loan a given value of money to the other
